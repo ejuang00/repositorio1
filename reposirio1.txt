@@ -1,0 +1,7 @@
+vamos a seguir el ejemplo de ALEXIS, EL LLAMO A ESTE FICHERO DIAS.TXT
+y en su interior puso:
+	lunes
+	martes
+	miercoles
+	jueves
+	viernes
